@@ -49,4 +49,4 @@ This single-page website is designed to be a template for small business website
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-Feel free to replace placeholders like `your_username`, `your_repository_name`, and contact information with your actual details. This template should give a clear and concise overview of your project, making it easier for others to understand and use.
+Feel free to replace placeholders like `your_username`, `your_repository_name`, and contact information with your actual details. 
