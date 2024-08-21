@@ -1,7 +1,7 @@
 
 # Single Page Website
 
-Welcome to the single-page website project! This project is built with HTML, CSS, and Bootstrap and is designed to be a responsive and visually appealing website. Below you will find information on the website's features and instructions for setting it up locally.
+Welcome to the single-page website project! This project is built with HTML, CSS, JavaScript and Bootstrap and is designed to be a responsive and visually appealing website. Below you will find information on the website's features and instructions for setting it up locally.
 
 ## Features
 
