@@ -1,0 +1,21 @@
+.color-teal {
+  color: blue;
+}
+
+.icon-lg {
+  font-size: 60px;
+}
+
+.icon-sm {
+  font-size: 30px;
+}
+
+.text-decoration {
+  text-decoration: underline;
+}
+
+.bullets {
+  list-style: 2;
+  padding: 4px;
+  margin: 4px;
+}
