@@ -16,7 +16,6 @@ Welcome to the single-page website project! This project is built with HTML, CSS
 
 - HTML
 - CSS
-- JavaScript
 - Bootstrap
 
 ## Getting Started
